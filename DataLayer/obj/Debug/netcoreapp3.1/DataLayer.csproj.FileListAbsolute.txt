@@ -1,0 +1,12 @@
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\CST-TERM-4\4870\AzureFunctionsEF\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
